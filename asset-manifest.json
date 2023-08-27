@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/text-utils-revision/static/css/main.31d6cfe0.css",
+    "main.js": "/text-utils-revision/static/js/main.a0a60a0d.js",
+    "index.html": "/text-utils-revision/index.html",
+    "main.a0a60a0d.js.map": "/text-utils-revision/static/js/main.a0a60a0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.a0a60a0d.js"
+  ]
+}
